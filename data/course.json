@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "4cc09673-f44f-9bff-92cb-d1a66b97078d",
+  "instructors": {
+    "content": [
+      "e3f9b8f0-23e3-bf01-228c-b5ca40836254"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "35f6b478-722e-3b85-c44b-f3a9f6fc39ea",
+    "website": "21l-004-reading-poetry-spring-2009"
+  },
+  "course_title": "Reading Poetry",
+  "course_description": "\"Reading Poetry\" has several aims: primarily, to increase the ways you can become more engaged and curious readers of poetry; to increase your confidence as writers thinking about literary texts; and to provide you with the language for literary description. The course is not designed as a historical survey course but rather as an introductory approach to poetry from various directions \u2013 as public or private utterances; as arranged imaginative shapes; and as psychological worlds, for example. One perspective offered is that poetry offers intellectual, moral and linguistic pleasures as well as difficulties to our private lives as readers and to our public lives as writers. Expect to hear and read poems aloud and to memorize lines; the class format will be group discussion, occasional lecture.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.004",
+  "course_image_thumbnail": {
+    "content": "dfd499ef-9d62-255b-9d37-24a3381b7d34",
+    "website": "21l-004-reading-poetry-spring-2009"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "4e72d3f7-3ced-4f4b-8630-cc0c9bd6782f",
+  "site_short_id": "21l.004-spring-2009",
+  "title": "Course Metadata"
+}
